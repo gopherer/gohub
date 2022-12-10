@@ -3,7 +3,7 @@ package bootstrap
 
 import (
 	"github.com/gin-gonic/gin"
-	"graproject/routes"
+	"gohub/routes"
 	"net/http"
 	"strings"
 )
